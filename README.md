@@ -1,6 +1,3 @@
-# Dengue_act1Finals
-
-
 # Activity1-Dengue
 
 Description:
